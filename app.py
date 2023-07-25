@@ -3,7 +3,7 @@ import requests
 from streamlit_lottie import st_lottie
 from PIL import Image
 from streamlit_option_menu import option_menu
-from bs4 import BeautifulSoup
+
 
 
 st.set_page_config(page_title="My Website", page_icon=":sunglasses:", layout="wide")
